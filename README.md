@@ -4,12 +4,6 @@ Mitt namn är Malin Larsson, lärare på Mittuniversitetet inom Webbutveckling. 
 ### Kontaktinfo
 E-post: <malin.larsson@miun.se>
 
-#### Statistik
-
-[![MallarMiun's GitHub stats](https://github-readme-stats.vercel.app/api?username=MallarMiun)](https://github.com/MallarMiun/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MallarMiun)](https://github.com/MallarMiun/github-readme-stats)
-
 <!--
 **MallarMiun/MallarMiun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
